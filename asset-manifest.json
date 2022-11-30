@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ad99aff7.js",
+    "static/media/image2.jpg": "/static/media/image2.a2522192e03e7d2e8504.jpg",
+    "static/media/image1.jpg": "/static/media/image1.d4669a7dda3c30b828c8.jpg",
+    "static/media/image3.jpg": "/static/media/image3.a6f2e56981e313796a0f.jpg",
+    "index.html": "/index.html",
+    "main.ad99aff7.js.map": "/static/js/main.ad99aff7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ad99aff7.js"
+  ]
+}
